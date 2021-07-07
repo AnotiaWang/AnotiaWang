@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 📫 联系我： [mail@to.anotia.top](mailto:mail@to.anotia.top)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide=stars&include_all_commits=true&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact)

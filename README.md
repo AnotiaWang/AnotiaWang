@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotiaWang&layout=compact)-->
+
 😄 喜欢计算机、羽毛球、弹钢琴
 
 ✈ Telegram 网络资源分享频道：[@atashare](https://t.me/atashare)
 
 📫 联系我： [mail@to.anotia.top](mailto:mail@to.anotia.top)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact)
+

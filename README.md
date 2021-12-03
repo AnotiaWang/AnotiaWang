@@ -1,26 +1,20 @@
-<!--
-**AnotiaWang/AnotiaWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! Anotia here
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide_title=true&include_all_commits=true&show_icons=true&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **He/his**
+- 📖 **Freshman of SZU**
+- 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
+- </> **Currently learning JavaScript, C/C++, Python**
+- 📫 **Reach me through** [mail@to.anotia.top](mailto:mail@to.anotia.top)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact)
+<br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotiaWang&layout=compact)-->
+---
 
-😄 喜欢计算机、羽毛球、弹钢琴
+## 🔧 Main projects I'm engaged in:
 
-✈ Telegram 网络资源分享频道：[@atashare](https://t.me/atashare)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnotiaWang&layout=compact&hide=html,css">
 
-📫 联系我： [mail@to.anotia.top](mailto:mail@to.anotia.top)
-
-
+- **AliYunPanBot**: Collects submissions of resources in Aliyun Drive, and publishes qualified ones to channel. Serves over 30,000 users in channel and group.
+- **Catbox_Uploader_Bot**: Simple bot that can upload your Telegram files to the storage service Catbox and Litterbox.

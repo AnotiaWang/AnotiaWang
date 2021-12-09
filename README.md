@@ -4,7 +4,7 @@
 
 - **He/his**
 
-- 📖 **Freshman of SZU**
+- 📖 **Freshman**
 
 - 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
 
@@ -21,3 +21,5 @@
 - **AliYunPanBot**: Collects submissions of resources in Aliyun Drive, and publishes qualified ones to channel. Serves over 30,000 users in channel and group.
 
 - **Catbox_Uploader_Bot**: Simple bot that can upload your Telegram files to the storage service Catbox and Litterbox.
+
+- **AntiChannelSpammersBot**: Bot that can delete messages from users appearing as channels. Also supports messages from anonymous admins and from the linked channels.

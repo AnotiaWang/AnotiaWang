@@ -12,7 +12,10 @@
 
 - 📫 **Reach me through** [mail@to.anotia.top](mailto:mail@to.anotia.top)
 
+<img align="center" src="https://shields.io/endpoint?style=social&url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/atashare">
+
 ---
+
 
 ## 🔧 Main projects I'm engaged in:
 

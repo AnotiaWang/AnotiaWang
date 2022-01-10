@@ -20,8 +20,9 @@
 
 ---
 
-
 ## 🔧 Main projects I'm engaged in:
+
+[![wakatime](https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg)](https://wakatime.com/@c98806ef-7db6-41f3-8769-dd3f17b38c0a)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnotiaWang&layout=compact&hide=html,css">
 

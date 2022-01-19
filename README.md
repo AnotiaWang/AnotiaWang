@@ -32,4 +32,6 @@
 
 - **[AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot)**: Bot that can delete messages from users appearing as channels. Also supports messages from anonymous admins and from the linked channels.
 
-- **[Animenz Sheets](https://animenz.anotia.top)**: A website that collects [Animenz](https://space.bilibili.com/6075139/) piano sheets from the Internet.
+- **[Animenz Sheets](https://animenz.anotia.top)**:
+  - [![](https://data.jsdelivr.com/v1/package/gh/AnotiaWang/animenz/badge)](https://www.jsdelivr.com/package/gh/AnotiaWang/animenz) 
+  - A website that collects [Animenz](https://space.bilibili.com/6075139/) piano sheets from the Internet.

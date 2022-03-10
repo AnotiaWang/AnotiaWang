@@ -22,9 +22,8 @@
 
 ## 🔧 Projects I'm mainly working on:
 
-[![wakatime](https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg)](https://wakatime.com/@c98806ef-7db6-41f3-8769-dd3f17b38c0a)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnotiaWang&layout=compact&hide=html,css">
+  <img src="https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg" alt="My code time">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=anotia&langs_count=8&layout=compact" alt="My code frequency">
 
 - **[AliYunPanBot](https://blog.anotia.top/archives/alibot)**: Collects submissions of resources from [Aliyun Drive](https://www.aliyundrive.com), and publishes qualified ones to channel. It also supports searching, collecting and reporting resources via Inline Mode. It's embodied over 7,000 entries now, and handles thousands of search queries per day.
 

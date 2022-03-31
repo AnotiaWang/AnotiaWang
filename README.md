@@ -10,13 +10,13 @@
 
 - </> **Currently learning JavaScript, C/C++, Python**
 
-- 📫 **Reach me through** [mail@to.anotia.top](mailto:mail@to.anotia.top)
+- 📫 **Reach me through** [ata@ik.me](mailto:ata@ik.me)
 
 - ✈ **Telegram Channels:**
   - <img align="center" src="https://shields.io/endpoint?style=social&url=https://telegram-badge-4mbpu8e0fit4.runkit.sh/?url=https://t.me/atashare"> <a href="https://t.me/atashare">@atashare</a>: Share useful websites, software, tech related news, etc.
   - <img align="center" src="https://shields.io/endpoint?style=social&url=https://telegram-badge-4mbpu8e0fit4.runkit.sh/?url=https://t.me/yuanshen"> <a href="https://t.me/YuanShen">@YuanShen</a>: Archive of official PVs (Promotion Videos) and EPs (Extended Plays) of 《原神》 (Genshin Impact).
 
-- 💬 **[My blog](https://blog.anotia.top)**: Irregularly updated 😆 Basically my records and thoughts in coding.
+- 💬 **[My blog](https://blog.anotia.top)**: 🕊 Basically my records and thoughts in coding.
 
 ---
 
@@ -25,7 +25,7 @@
   <img src="https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg" alt="My code time">
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=anotia&langs_count=8&layout=compact" alt="My code frequency">
 
-- **[AliYunPanBot](https://blog.anotia.top/archives/alibot)**: Collects submissions of resources from [Aliyun Drive](https://www.aliyundrive.com), and publishes qualified ones to channel. It also supports searching, collecting and reporting resources via Inline Mode. It's embodied over 7,000 entries now, and handles thousands of search queries per day.
+- **[AliYunPanBot](https://blog.anotia.top/archives/alibot)**: Collects submissions of resources from [Aliyun Drive](https://www.aliyundrive.com), and publishes qualified ones to channel. It also supports searching, collecting and reporting resources via Inline Mode. It has embodied over 8,000 entries, and handles thousands of inline search queries per day.
 
 - **[Catbox_Uploader_Bot](https://github.com/AnotiaWang/TG_Catbox_Uploader)**: Simple bot that can upload your Telegram files to the storage service Catbox and Litterbox.
 

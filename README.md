@@ -1,16 +1,26 @@
-<p align="center">
+<!-- <p align="center">
   <img width="150px" src="https://avatars.githubusercontent.com/u/62269186?v=4" align="center" alt="Avatar">
   <h2 align="center">
-    <a href="https://anotia.top">Anotia</a>
+    <a href="https://.top">Anotia</a>
   </h2>
   <p align="center">
     That isn't bug, just an unexpected feature.
   </p>
-</p>
+</p> -->
 
+- ♂ **He/him**
+
+- 📖 **Sophomore**
+
+- 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
+
+- </> **Currently learning JavaScript / TypeScript and Go**
+
+- 📫 **Reach me through [ata@ik.me](mailto:ata@ik.me)**
+
+- 💬 **[My blog](https://blog.anotia.top)**
 
 <p align="center">
-  
   <img src="https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg" alt="My code time">
   
   <br/>
@@ -19,27 +29,9 @@
   
   <img height="120px" src="https://github-readme-stats.vercel.app/api/wakatime?username=anotia&langs_count=8&layout=compact" alt="My code frequency">
   
-  <br/>
-  
-  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnotiaWang&theme=xcode">
-  
 </p>
 
----
-
-- ♂ **He/him**
-
-- 📖 **Freshman**
-
-- 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
-
-- </> **Currently learning JavaScript, C/C++, Python**
-
-- 📫 **Reach me through [ata@ik.me](mailto:ata@ik.me)**
-
-- 💬 **[My blog](https://blog.anotia.top)**: **🕊 Basically my records and thoughts in coding.**
-
----
+<!-- ---
 
 ## 🔧 Projects I'm mainly working on:
 
@@ -51,4 +43,4 @@
 
 - **[Animenz Sheets](https://animenz.anotia.top)**:
   - [![](https://data.jsdelivr.com/v1/package/gh/AnotiaWang/animenz/badge)](https://www.jsdelivr.com/package/gh/AnotiaWang/animenz) 
-  - A website that collects [Animenz](https://space.bilibili.com/6075139/) piano sheets from the Internet.
+  - A website that collects [Animenz](https://space.bilibili.com/6075139/) piano sheets from the Internet. -->

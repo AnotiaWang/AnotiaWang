@@ -31,15 +31,20 @@
 
   <br />
   <br />
-  Languages & Frameworks I'm familiar with:
+  Tech stacks I'm familiar with:
+  <br />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind%20CSS&logoColor=white&style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <br />
   <br />
   Systems I've played on:
@@ -51,7 +56,7 @@
 
   <br />
   <br />
-  Code stats
+  Code Stats
   <br />
 
   <img src="https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg" alt="My code time">

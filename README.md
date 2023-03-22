@@ -14,13 +14,46 @@
 
 - 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
 
-- </> **Currently learning JavaScript / TypeScript and Go**
-
 - 📫 **Reach me through [ata@ik.me](mailto:ata@ik.me)**
 
 - 💬 **[My blog](https://blog.anotia.top)**
 
 <p align="center">
+  <br />
+  My loved IDEs:
+  <br />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GoLand-000000?logo=goland&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij%20idea&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=for-the-badge" />
+
+  <br />
+  <br />
+  Languages & Frameworks I'm familiar with:
+  <br />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" />
+  <br />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <br />
+  <br />
+  Systems I've played on:
+  <br />
+  <img src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Linux-A81D33?logo=linux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+
+  <br />
+  <br />
+  Code stats
+  <br />
+
   <img src="https://wakatime.com/badge/user/c98806ef-7db6-41f3-8769-dd3f17b38c0a.svg" alt="My code time">
   
   <br/>

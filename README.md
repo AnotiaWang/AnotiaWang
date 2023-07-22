@@ -63,7 +63,7 @@
   
   <br/>
   
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide_title=true&include_all_commits=true&show_icons=true&layout=compact">
+  <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AnotiaWang&count_private=true&hide_title=true&include_all_commits=true&show_icons=true&layout=compact"> -->
   
   <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=anotia&langs_count=12&layout=compact" alt="My code frequency">
   

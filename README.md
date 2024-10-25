@@ -22,7 +22,7 @@
   <br />
   My loved IDEs:
   <br />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlZpc3VhbCBTdHVkaW8gQ29kZTwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GoLand-000000?logo=goland&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge" />

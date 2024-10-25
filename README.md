@@ -50,8 +50,8 @@
   <br />
   Systems I'm using:
   <br />
-  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Windows-0078D4?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPldpbmRvd3MgMTE8L3RpdGxlPjxwYXRoIGQ9Ik0wLDBIMTEuMzc3VjExLjM3MkgwWk0xMi42MjMsMEgyNFYxMS4zNzJIMTIuNjIzWk0wLDEyLjYyM0gxMS4zNzdWMjRIMFptMTIuNjIzLDBIMjRWMjRIMTIuNjIzIi8%2BPC9zdmc%2B&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-A81D33?logo=linux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 

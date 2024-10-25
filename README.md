@@ -31,12 +31,13 @@
 
   <br />
   <br />
-  Tech stacks I'm familiar with:
+  Tech stacks I'm using:
   <br />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind%20CSS&logoColor=white&style=for-the-badge" />
@@ -47,11 +48,11 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <br />
   <br />
-  Systems I've played on:
+  Systems I'm using:
   <br />
+  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-A81D33?logo=linux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
   <br />

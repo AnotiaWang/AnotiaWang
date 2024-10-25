@@ -10,7 +10,7 @@
 
 - ♂ **He/him**
 
-- 📖 **Sophomore**
+- 📖 **Senior student**
 
 - 😄 **Programming ⌨️, Music (Piano 🎹), Badminton 🏸**
 
